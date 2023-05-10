@@ -4,5 +4,6 @@ public class Main
   {
     System.out.println("Hello World!");
     System.out.println("I am alive!");
+    System.out.println("This here is the code from the master multi conflict branch");
   }
 }
